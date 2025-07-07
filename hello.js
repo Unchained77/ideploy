@@ -1,1 +1,1 @@
-$console.log('hello world people !');
+console.log('hello world people !');
